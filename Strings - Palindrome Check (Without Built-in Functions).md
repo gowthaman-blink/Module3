@@ -18,11 +18,7 @@ def palindrome(a):
     if a==x1:
        print("The entered string is palindrome")
     else:
-        print("The entered string is not palindrome")
-    
-    
-        
-        
+        print("The entered string is not palindrome")      
 string =input()
 palindrome(string)
 
