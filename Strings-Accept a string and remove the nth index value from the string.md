@@ -21,6 +21,7 @@ def remove(a):
     for i in range(0,len(a)):
         if(i!=n):
             print(a[i],end='')
+
 ```
 ## Output
 
